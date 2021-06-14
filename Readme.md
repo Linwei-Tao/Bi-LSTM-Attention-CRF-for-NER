@@ -3,7 +3,9 @@ All of our implementation and experiments and be found in the excel file.
 We also provide the Numbers version for MacOS users.
 
 ## 1. What is in the Best Model.ipynb
-The best model contains all the implemented components and some of them are added into the best model architecture. The setting of the best model is given below:
+The best model contains all the implemented components and some of them are added into the best model architecture. 
+
+The **setting of the best model** is given below:
 | Settings      | Value |
 | ----------- | ----------- |
 | Syntactic Textual Feature Embedding |None|
